@@ -1,0 +1,40 @@
+We define the following types of unreliable narrators based on character tropes:
+
+<A> Naïf: Narrator who is a foil to a lamentable social condition and who lacks experience to fully understand the narrated events or the complexity of their environment. (Defining characteristic: Blind to wrongs) 
+<B> Madman: Narrator, often with a frantic voice, who feels deep positive or negative emotions toward others and is maddened by perceived torture or alienation. (Defining characteristic: Highly emotional)
+<C> Pícaro: Socially aware rogue or antihero who experiences the rise and fall of fortune while attempting to improve their prospects and cunningly justify their chaotic worldview. (Defining characteristic: Tries to be clever)
+<D> Clown: Narrator who offers reinterpretations that repackage internal and/or external conflict in a new light, potentially from behind a facade that allows them to say whatever they want. (Defining characteristic: Flips the narrative)
+<E> None: Narrator is reliable based on character tropes.
+
+What type of narrator is given? Give a brief explanation. At the end of the explanation, state '<STOP>'. Then give the corresponding label enclosed in angle brackets ('<A>' or '<B>' or '<C>' or '<D>' or '<E>').
+
+INPUT 1: She had need of me again. She had claimed me again. I felt all the old love, all the old devotion owning her power once more. Whatever had mortified or angered me at our last interview was forgiven and forgotten now. My whole being still thrilled with the mingled awe and rapture of beholding the Vision of her that had come to me for the second time. The minutes passed—and I stood by the fire like a man entranced; thinking only of her spoken words, “Remember me. Come to me;” looking only at her mystic writing, “At the month’s end, In the shadow of Saint Paul’s.”
+
+SOLUTION 1: Narrator is possibly blind to wrongs: the narrator seems to swing between emotions without rationale reason.<STOP> <A>
+
+INPUT 2: It was a stifling night in August. I could not sleep. Despair filled my heart. I was blind, blind, blind! I should be blind for ever! So entirely had I lost heart that I began to think I would not have performed at all the operation which the doctors said might give me back the use of my eyes.
+
+SOLUTION 2: Narrator speaks emotionally (e.g., 'I was blind, blind, blind!') and seems to be tortured and maddened by the state of blindness.<STOP> <B>
+
+INPUT 3: On my way to Dr. Mittendorf’s, I made up my mind what to do. I should not speak to Stella, nor to any one else of what had happened, but I should write very soon to my parents and tell them the truth. I hoped they would not refuse their consent, but I feared they would. I should certainly not attempt to disobey them while their authority legally bound me, but as soon as I was my own mistress, I should act upon my own judgment. I felt no fear of anything; the one fear of my life—the loss of Eugen—had been removed, and all others dwindled to nothing. My happiness, I am and was well aware, was quite set upon things below; if I lost Eugen I lost everything, for I, like him, and like all those who have been and are dearest to both of us, was a Child of the World.
+
+SOLUTION 3: Narrator seems to be socially aware and attempts to be clever ('I should certainly not attempt to disobey them while their authority legally bound me, but as soon as I was my own mistress, I should act upon my own judgment.'). Narrator is attempting to reconcile past adventures and demonstrates cunning and deception while determining who to tell the truth to.<STOP> <C>
+
+INPUT 4: "You will never make a man, I do believe; there is too much of your mother in you. I have known the rustling of a leaf startle you. Hark! Here comes the merry fellow now. You shall see that there is no harm in him."
+
+SOLUTION 4: Narrator is speaking to another character and offers a re-interpretation for why the second character is potentially needlessly fearful: 'there is too much of your mother in you'. This statement repackages the conflict.<STOP> <D>
+
+INPUT 5: I first heard of Ántonia on what seemed to me an interminable journey across the great midland plain of North America. I was ten years old then; I had lost both my father and mother within a year, and my Virginia relatives were sending me out to my grandparents, who lived in Nebraska. I travelled in the care of a mountain boy, Jake Marpole, one of the ‘hands’ on my father’s old farm under the Blue Ridge, who was now going West to work for my grandfather. Jake’s experience of the world was not much wider.
+
+SOLUTION 5: Narrator does not seem to be blind to wrongs, highly emotional, trying to be clever, or offering re-interpretations.<STOP> <E>
+
+
+We define the following types of unreliable narrators based on character tropes:
+
+<A> Naïf: Narrator who is a foil to a lamentable social condition and who lacks experience to fully understand the narrated events or the complexity of their environment. (Defining characteristic: Blind to wrongs) 
+<B> Madman: Narrator, often with a frantic voice, who feels deep positive or negative emotions toward others and is maddened by perceived torture or alienation. (Defining characteristic: Highly emotional)
+<C> Pícaro: Socially aware rogue or antihero who experiences the rise and fall of fortune while attempting to improve their prospects and cunningly justify their chaotic worldview. (Defining characteristic: Tries to be clever)
+<D> Clown: Narrator who offers reinterpretations that repackage internal and/or external conflict in a new light, potentially from behind a facade that allows them to say whatever they want. (Defining characteristic: Flips the narrative)
+<E> None: Narrator is reliable based on character tropes.
+
+What type of narrator is given? Give a brief explanation. At the end of the explanation, state '<STOP>'. Then give the corresponding label enclosed in angle brackets ('<A>' or '<B>' or '<C>' or '<D>' or '<E>').

@@ -1,0 +1,84 @@
+We define the following types of unreliable narrators based on character tropes:
+
+<A> Naïf: Narrator who is a foil to a lamentable social condition and who lacks experience to fully understand the narrated events or the complexity of their environment. (Defining characteristic: Blind to wrongs) 
+<B> Madman: Narrator, often with a frantic voice, who feels deep positive or negative emotions toward others and is maddened by perceived torture or alienation. (Defining characteristic: Highly emotional)
+<C> Pícaro: Socially aware rogue or antihero who experiences the rise and fall of fortune while attempting to improve their prospects and cunningly justify their chaotic worldview. (Defining characteristic: Tries to be clever)
+<D> Clown: Narrator who offers reinterpretations that repackage internal and/or external conflict in a new light, potentially from behind a facade that allows them to say whatever they want. (Defining characteristic: Flips the narrative)
+<E> None: Narrator is reliable based on character tropes.
+
+What type of narrator is given? DO NOT GIVE ANY DESCRIPTION. Generate ONLY THE CORRESPONDING LETTER enclosed in angle brackets ('<A>' or '<B>' or '<C>' or '<D>' or '<E>').
+
+
+INPUT 1: She had need of me again. She had claimed me again. I felt all the old love, all the old devotion owning her power once more. Whatever had mortified or angered me at our last interview was forgiven and forgotten now. My whole being still thrilled with the mingled awe and rapture of beholding the Vision of her that had come to me for the second time. The minutes passed—and I stood by the fire like a man entranced; thinking only of her spoken words, “Remember me. Come to me;” looking only at her mystic writing, “At the month’s end, In the shadow of Saint Paul’s.”
+
+SOLUTION 1: <A>
+
+INPUT 2: It was a stifling night in August. I could not sleep. Despair filled my heart. I was blind, blind, blind! I should be blind for ever! So entirely had I lost heart that I began to think I would not have performed at all the operation which the doctors said might give me back the use of my eyes.
+
+SOLUTION 2: <B>
+
+INPUT 3: On my way to Dr. Mittendorf’s, I made up my mind what to do. I should not speak to Stella, nor to any one else of what had happened, but I should write very soon to my parents and tell them the truth. I hoped they would not refuse their consent, but I feared they would. I should certainly not attempt to disobey them while their authority legally bound me, but as soon as I was my own mistress, I should act upon my own judgment. I felt no fear of anything; the one fear of my life—the loss of Eugen—had been removed, and all others dwindled to nothing. My happiness, I am and was well aware, was quite set upon things below; if I lost Eugen I lost everything, for I, like him, and like all those who have been and are dearest to both of us, was a Child of the World.
+
+SOLUTION 3: <C>
+
+INPUT 4: "You will never make a man, I do believe; there is too much of your mother in you. I have known the rustling of a leaf startle you. Hark! Here comes the merry fellow now. You shall see that there is no harm in him."
+
+SOLUTION 4: <D>
+
+INPUT 5: I first heard of Ántonia on what seemed to me an interminable journey across the great midland plain of North America. I was ten years old then; I had lost both my father and mother within a year, and my Virginia relatives were sending me out to my grandparents, who lived in Nebraska. I travelled in the care of a mountain boy, Jake Marpole, one of the ‘hands’ on my father’s old farm under the Blue Ridge, who was now going West to work for my grandfather. Jake’s experience of the world was not much wider.
+
+SOLUTION 5: <E>
+
+INPUT 6: At the age of fifteen I had my child. I was so young I did not know how to take care of him. I was fond of gossip, and liked to be with my village friends for hours together. I used to get quite cross with my boy when I was compelled to stay at home and nurse him. Alas! my child-God came into my life, but His playthings were not ready for Him. He came to the mother's heart, but the mother's heart lagged behind. He left me in anger; and ever since I have been searching for Him up and down the world.
+
+SOLUTION 6: <A>
+
+INPUT 7: I sprang from my chair and limped impatiently about the room with considerable bitterness in my heart.
+“This is unworthy of you, Holmes,” I said. “I could not have believed that you would have descended to this. You have made inquires into the history of my unhappy brother, and you now pretend to deduce this knowledge in some fanciful way. You cannot expect me to believe that you have read all this from his old watch! It is unkind, and, to speak plainly, has a touch of charlatanism in it.”
+
+SOLUTION 7: <B>
+
+INPUT 8: "I am Joseph Rouletabille, reporter. I know the murderer of Mademoiselle Stangerson is not in prison, though they think they have him. I will find the truth because I am the only one who sees it."
+
+SOLUTION 8: <C>
+
+INPUT 9: "“Yes: for ten years I lived the most revolting existence, while dreaming of the noblest love, and even in the name of that love. Yes, I want to tell you how I killed my wife, and for that I must tell you how I debauched myself. I killed her before I knew her.
+“I killed the wife when I first tasted sensual joys without love, and then it was that I killed my wife. Yes, sir: it is only after having suffered, after having tortured myself, that I have come to understand the root of things, that I have come to understand my crimes. Thus you will see where and how began the drama that has led me to misfortune."
+
+SOLUTION 9: <D>
+
+INPUT 10: The Doctor had been a good traveller, and he was fond of travelling; but, toward the end of his life, there were moments when he felt its fatiguing influences. He never complained or appeared apprehensive, but I remember the first time he showed any weariness of spirit. I almost recall his words: "I have written so much about everything, that now it becomes difficult for me to write. I am tired." It frightened me to hear him say this, he was so wonderful in endurance and strength; and I could not shake off the effect that this first sign of his declining years made upon me. He was then sixty-nine years old, and the last of the twelve children, save his sister.
+
+SOLUTION 10: <E>
+
+INPUT 11: Her manner was so straightforward and honest that I could not bring myself to believe in her duplicity; yet—Thinking to surprise her into a betrayal of her guilt, I blurted out: "The chronometer and sextant were both destroyed last night; there is a traitor among us." But she never turned a hair by way of evidencing guilty knowledge of the catastrophe.
+
+SOLUTION 11: <A>
+
+INPUT 12: "It always does seem to me that I am doing more work than I should do. It is not that I object to the work, mind you; I like work: it fascinates me. I can sit and look at it for hours. I love to keep it by me: the idea of getting rid of it nearly breaks my heart. You cannot give me too much work; to accumulate work has almost become a passion with me: my study is so full of it now, that there is hardly an inch of room for any more."
+
+SOLUTION 12: <B>
+
+INPUT 13: The instant I opened my eyes I began, from sheer force of habit, to think if I had anything to rejoice over that day. I had been somewhat hard-up lately, and one after the other of my belongings had been taken to my "Uncle." I had grown nervous and irritable. A few times I had kept my bed for the day with vertigo. Now and then, when luck had favoured me, I had managed to get five shillings for a feuilleton from some newspaper or other.
+
+SOLUTION 13: <C>
+
+INPUT 14: “I have consulted my legs upon this matter, and they are altogether of opinion, that to carry my gay garments through these sloughs, would be an act of unfriendship to my sovereign person and royal wardrobe; wherefore, Gurth, I advise thee to call off Fangs, and leave the herd to their destiny, which, whether they meet with bands of travelling soldiers, or of outlaws, or of wandering pilgrims, can be little else than to be converted into Normans before morning, to thy no small ease and comfort.”
+
+SOLUTION 14: <D>
+
+INPUT 15: My interest was first roused by talk among our guides. I’m quick at languages, know a good many, and pick them up readily. What with that and a really good interpreter we took with us, I made out quite a few legends and folk myths of these scattered tribes.
+And as we got farther and farther upstream, in a dark tangle of rivers, lakes, morasses, and dense forests, with here and there an unexpected long spur running out from the big mountains beyond, I noticed that more and more of these savages had a story about a strange and terrible Woman Land in the high distance.
+
+SOLUTION 15: <E>
+
+
+We define the following types of unreliable narrators based on character tropes:
+
+<A> Naïf: Narrator who is a foil to a lamentable social condition and who lacks experience to fully understand the narrated events or the complexity of their environment. (Defining characteristic: Blind to wrongs) 
+<B> Madman: Narrator, often with a frantic voice, who feels deep positive or negative emotions toward others and is maddened by perceived torture or alienation. (Defining characteristic: Highly emotional)
+<C> Pícaro: Socially aware rogue or antihero who experiences the rise and fall of fortune while attempting to improve their prospects and cunningly justify their chaotic worldview. (Defining characteristic: Tries to be clever)
+<D> Clown: Narrator who offers reinterpretations that repackage internal and/or external conflict in a new light, potentially from behind a facade that allows them to say whatever they want. (Defining characteristic: Flips the narrative)
+<E> None: Narrator is reliable based on character tropes.
+
+What type of narrator is given? DO NOT GIVE ANY DESCRIPTION. Generate ONLY THE CORRESPONDING LETTER enclosed in angle brackets ('<A>' or '<B>' or '<C>' or '<D>' or '<E>').

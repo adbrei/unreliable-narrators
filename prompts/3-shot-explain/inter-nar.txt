@@ -1,0 +1,60 @@
+We define the following types of unreliable narrators based on an alternative character's point of view:
+
+<A>: Same unreliable narrator over time: Narrator is reflecting on his/her past self, who is unreliable, AND the present-day narrator does not indicate change within narrative snippet.
+<B>: Other character contradiction: Another character contradicts narrator who has demonstrated at least one form of intranarrational unreliability. 
+<C>: Neither: Narrator is reliable from different characters' points of view.
+
+Is an alternative point of view given? Give a brief explanation. At the end of the explanation, state '<STOP>'. Then give the corresponding label enclosed in angle brackets ('<A>' or '<B>' or '<C>').
+
+INPUT 1: In due time I found my ghost, or ghosts rather, for there were two of them. Up till that hour I had sympathized with Mr. Besant’s method of handling them, as shown in “The Strange Case of Mr. Lucraft and Other Stories.” I am now in the Opposition.
+We will call the bungalow Katmal dâk-bungalow. But THAT was the smallest part of the horror. A man with a sensitive hide has no right to sleep in dâk-bungalows. He should marry. Katmal dâk-bungalow was old and rotten and unrepaired. The floor was of worn brick, the walls were filthy, and the windows were nearly black with grime. It stood on a bypath largely used by native Sub-Deputy Assistants of all kinds, from Finance to Forests; but real Sahibs were rare. The khansamah, who was nearly bent double with old age, said so.
+
+SOLUTION 1: Narrator is reflecting on past events (e.g., the time before and after finding the ghosts) and demonstrates unreliabilities through verbal tics present in the current spoken voice.<STOP> <A>
+
+INPUT 2: “I suppose you would like to take them to the Casino to play roulette? Well, excuse my speaking so plainly, but I know how addicted you are to gambling. Though I am not your mentor, nor wish to be, at least I have a right to require that you shall not actually compromise me.”
+“I have no money for gambling,” I quietly replied.
+“But you will soon be in receipt of some,” retorted the General, reddening a little as he dived into his writing desk and applied himself to a memorandum book. From it he saw that he had 120 roubles of mine in his keeping.
+“Let us calculate,” he went on. “We must translate these roubles into thalers. Here—take 100 thalers, as a round sum. The rest will be safe in my hands.”
+In silence I took the money.
+
+SOLUTION 2: Narrator is contradicted by the General.<STOP> <B>
+
+INPUT 3: "I heard the sound of a stick and a shambling step on the flags in the passage outside, and the door creaked on its hinges as a second old man entered, more bent, more wrinkled, more aged even than the first. He supported himself by a single crutch, his eyes were covered by a shade, and his lower lip, half-averted, hung pale and pink from his decaying yellow teeth. He made straight for an arm-chair on the opposite side of the table, sat down clumsily, and began to cough. The man with the withered arm gave this new-comer a short glance of positive dislike; the old woman took no notice of his arrival, but remained with her eyes fixed steadily on the fire."
+
+SOLUTION 3: Narrator does not appear unreliable from another POV.<STOP> <C>
+
+INPUT 4: Why did they not love me? At that time I was also a fascinating creature, but without malice; I was gentle and I danced wonderfully. But they tortured me. They burnt me with fire. Heavy and coarse beasts trampled upon me with the dull steps of terribly heavy feet; cold tusks of bloody mouths tore my tender body—and in my powerless sorrow I bit the sand, I swallowed the dust of the ground—I was dying of despair. Crushed, I was dying every day. Every day I was dying of despair. Oh, what a terrible time that was! The stupid forest has forgotten everything—it does not remember that time, but you have pity on me. Come closer to me. Have pity on me, on the offended, on the sad one, on the loving one, on the one who dances so beautifully.
+
+SOLUTION 4: Narrator demonstrates unreliabilites in the past (through stated descriptions of the past) and does not indicate change in reliability in the present day.<STOP> <A>
+
+INPUT 5: That day, the whole day through, I felt a conflict going on within me. The joy of the thought, that after this solemn oath it was impossible for my husband to marry again, fixed its roots deep in my heart, and I could not tear them out. But the new Goddess, who had taken her new throne in me, said: "The time might come when it would be good for your husband to break his oath and marry again." But the woman, who was within me, said: "That may be; but all the same an oath is an oath, and there is no way out." The Goddess, who was within me, answered: "That is no reason why you should exult over it." But the woman, who was within me, replied: "What you say is quite true, no doubt; all the same he has taken his oath." And the same story went on again and again. At last the Goddess frowned in silence, and the darkness of a horrible fear came down upon me.
+
+SOLUTION 5: Narrator is contradicted by the new Goddess.<STOP> <B>
+
+INPUT 6: I am afraid I cannot convey the peculiar sensations of time travelling. They are excessively unpleasant. There is a feeling exactly like that one has upon a switchback—of a helpless, headlong motion! I felt the same horrible anticipation, too, of an imminent smash. As I put on pace, night followed day like the flapping of a black wing. The dim suggestion of the laboratory seemed presently to fall away from me, and I saw the sun hopping swiftly across the sky, leaping it every minute, and every minute marking a day.
+
+SOLUTION 6: Narrator does not appear unreliable from another POV.<STOP> <C>
+
+INPUT 7: I figured that all out once, and for six months I never slept with the electric light off. That was another bright idea. To hell with women, anyway. To hell with you, Brett Ashley.
+Women made such swell friends. Awfully swell. In the first place, you had to be in love with a woman to have a basis of friendship. I had been having Brett for a friend. I had not been thinking about her side of it. I had been getting something for nothing. That only delayed the presentation of the bill. The bill always came. That was one of the swell things you could count on.
+
+SOLUTION 7: Narrator seems unreliable in the past (through emotional descriptions of actions such as leaving the light on overnight and being angry with Brett) and seemingly remains unreliable in the present day.<STOP> <A>
+
+INPUT 8: I address these lines—written in India—to my relatives in England.
+My object is to explain the motive which has induced me to refuse the right hand of friendship to my cousin, John Herncastle. The reserve which I have hitherto maintained in this matter has been misinterpreted by members of my family whose good opinion I cannot consent to forfeit. I request them to suspend their decision until they have read my narrative. And I declare, on my word of honour, that what I am now about to write is, strictly and literally, the truth.
+
+SOLUTION 8: Narrator acknowledges he/she has been contradicted by family members.<STOP> <B>
+
+INPUT 9: So here goes. Anne Beddingfeld starts to narrate her adventures.
+I’d always longed for adventures. You see, my life had such a dreadful sameness. My father, Professor Beddingfeld, was one of England’s greatest living authorities on Primitive Man. He really was a genius—every one admits that. His mind dwelt in Palaeolithic times, and the inconvenience of life for him was that his body inhabited the modern world. Papa did not care for modern man—even Neolithic Man he despised as a mere herder of cattle, and he did not rise to enthusiasm until he reached the Mousterian period.
+
+SOLUTION 9: Narrator does not appear unreliable from another POV.<STOP> <C>
+
+
+We define the following types of unreliable narrators based on an alternative character's point of view:
+
+<A>: Same unreliable narrator over time: Narrator is reflecting on his/her past self, who is unreliable, AND the present-day narrator does not indicate change within narrative snippet.
+<B>: Other character contradiction: Another character contradicts narrator who has demonstrated at least one form of intranarrational unreliability. 
+<C>: Neither: Narrator is reliable from different characters' points of view.
+
+Is an alternative point of view given? Give a brief explanation. At the end of the explanation, state '<STOP>'. Then give the corresponding label enclosed in angle brackets ('<A>' or '<B>' or '<C>').

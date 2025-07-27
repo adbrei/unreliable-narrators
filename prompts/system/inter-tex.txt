@@ -1,0 +1,1 @@
+Determine if the narrator in the INPUT narrative fits a character trope.

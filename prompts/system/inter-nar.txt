@@ -1,0 +1,1 @@
+Determine if the narrator in the INPUT narrative is unreliable based on an alternative character's point of view.

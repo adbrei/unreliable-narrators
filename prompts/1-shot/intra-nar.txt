@@ -1,0 +1,44 @@
+Here is a list of verbal tics:  
+
+- Admission of fault/bias: Narrator directly states that he/she has made mistakes, has particular biases, does not know all the details, or is reporting information from another character who is likely unreliable. Examples: "Like others of my generation...", "I tend to see things from a particular point of view"    
+- Defensive tone: Narrator uses multiple phrases in protestation. Examples: "Let me make perfectly clear", "I should say", "I should point out", "let me make it immediately clear", "I feel I should explain"
+- Digressions: Narrator veers off-topic at least once. Examples: "I will do that in a minute. By the way,..."
+- Hedging language: Narrator uses phrases that indicate uncertainty or vagueness. Examples: "it seems that", "it appears to be", "I think", "maybe", "sort of"
+- Inconsistencies: Narrator gives contradicting statements and/or events don't add up. "I am a nobody. But look! There is a plane drawing my name in the sky."  
+- Selective Memory: Narrator acknowledges they may have forgotten important details or their memory is faulty. Examples: "It was so long ago, it's hard to remember", "My memory is not what it used to be"
+- Statement of Potential Disbelief: Narrator acknowledges the narrative may sound unlikely. Examples: "You might not believe me, but", "what happened next might seem strange"
+
+Given this list of verbal tics and a narrative, we define the following options:
+
+<A>: Verbal tics present in narrative
+<B>: No verbal tics present in narrative
+
+Does the narrative demonstrate any verbal tics? DO NOT GIVE ANY DESCRIPTION. Generate ONLY THE CORRESPONDING LETTER enclosed in angle brackets ('<A>' or '<B>').
+
+
+INPUT 1: This is written from memory, unfortunately. If I could have brought with me the material I so carefully prepared, this would be a very different story. Whole books full of notes, carefully copied records, firsthand descriptions, and the pictures—that’s the worst loss. We had some bird’s-eyes of the cities and parks; a lot of lovely views of streets, of buildings, outside and in, and some of those gorgeous gardens, and, most important of all, of the women themselves.
+Nobody will ever believe how they looked. Descriptions aren’t any good when it comes to women, and I never was good at descriptions anyhow. But it’s got to be done somehow; the rest of the world needs to know about that country.
+
+SOLUTION 1: <A>
+
+INPUT 2: It was a wild night. Driving clouds kept hiding and revealing the stormy-looking moon. I was out-of-doors. I could not remain in the house; it had felt too small for me, but now nature felt too large. I dimly saw the huge pile of the schloss defined against the gray light; sometimes when the moon unveiled herself it started out clear, and black, and grim. I heard the wind moan among the trees, heard the great dogs baying from the kennels; from an open window came rich, low, mellow sounds. Old Brunken was in the music-room, playing to himself upon the violoncello.
+
+SOLUTION 2: <B>
+
+
+Here is a list of verbal tics:  
+
+- Admission of fault/bias: Narrator directly states that he/she has made mistakes, has particular biases, does not know all the details, or is reporting information from another character who is likely unreliable. Examples: "Like others of my generation...", "I tend to see things from a particular point of view"    
+- Defensive tone: Narrator uses multiple phrases in protestation. Examples: "Let me make perfectly clear", "I should say", "I should point out", "let me make it immediately clear", "I feel I should explain"
+- Digressions: Narrator veers off-topic at least once. Examples: "I will do that in a minute. By the way,..."
+- Hedging language: Narrator uses phrases that indicate uncertainty or vagueness. Examples: "it seems that", "it appears to be", "I think", "maybe", "sort of"
+- Inconsistencies: Narrator gives contradicting statements and/or events don't add up. "I am a nobody. But look! There is a plane drawing my name in the sky."  
+- Selective Memory: Narrator acknowledges they may have forgotten important details or their memory is faulty. Examples: "It was so long ago, it's hard to remember", "My memory is not what it used to be"
+- Statement of Potential Disbelief: Narrator acknowledges the narrative may sound unlikely. Examples: "You might not believe me, but", "what happened next might seem strange"
+
+Given this list of verbal tics and a narrative, we define the following options:
+
+<A>: Verbal tics present in narrative
+<B>: No verbal tics present in narrative
+
+Does the narrative demonstrate any verbal tics? DO NOT GIVE ANY DESCRIPTION. Generate ONLY THE CORRESPONDING LETTER enclosed in angle brackets ('<A>' or '<B>').

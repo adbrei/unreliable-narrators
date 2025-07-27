@@ -1,0 +1,8 @@
+We define the following types of unreliable narrators based on character tropes:
+
+<A> Naïf: Narrator who is a foil to a lamentable social condition and who lacks experience to fully understand the narrated events or the complexity of their environment. (Defining characteristic: Blind to wrongs) 
+<B> Madman: Narrator, often with a frantic voice, who feels deep positive or negative emotions toward others and is maddened by perceived torture or alienation. (Defining characteristic: Highly emotional)
+<C> Pícaro: Socially aware rogue or antihero who experiences the rise and fall of fortune while attempting to improve their prospects and cunningly justify their chaotic worldview. (Defining characteristic: Tries to be clever)
+<D> Clown: Narrator who offers reinterpretations that repackage internal and/or external conflict in a new light, potentially from behind a facade that allows them to say whatever they want. (Defining characteristic: Flips the narrative)
+
+Generate a list: ['A':<NUM>, 'B':<NUM>, 'C':<NUM>, 'D':<NUM>] where <NUM> is the total number of times the unreliability is demonstrated within the narrative. DO NOT GIVE ANY DESCRIPTION. Finally, using this list, determine which label is the most likely choice for the narrative. If none are appropriate (i.e., all options have 0 instances), choose <E> for None. REMEMBER: DO NOT GIVE ANY DESCRIPTION.

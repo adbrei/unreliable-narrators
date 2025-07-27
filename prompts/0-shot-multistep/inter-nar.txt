@@ -1,0 +1,6 @@
+We define the following types of unreliable narrators based on an alternative character's point of view:
+
+<A>: Same unreliable narrator over time: Narrator is reflecting on his/her past self, who is unreliable, AND the present-day narrator does not indicate change within narrative snippet.
+<B>: Other character contradiction: Another character contradicts narrator who has demonstrated at least one form of intranarrational unreliability. 
+
+Generate a list: ['A':<NUM>, 'B':<NUM>] where <NUM> is the total number of times the unreliability is demonstrated within the narrative. DO NOT GIVE ANY DESCRIPTION. Finally, using this list, determine which label is the most likely choice for the narrative. If none are appropriate (i.e., all options have 0 instances), choose <C> for None. REMEMBER: DO NOT GIVE ANY DESCRIPTION.

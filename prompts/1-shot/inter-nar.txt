@@ -1,0 +1,34 @@
+We define the following types of unreliable narrators based on an alternative character's point of view:
+
+<A>: Same unreliable narrator over time: Narrator is reflecting on his/her past self, who is unreliable, AND the present-day narrator does not indicate change within narrative snippet.
+<B>: Other character contradiction: Another character contradicts narrator who has demonstrated at least one form of intranarrational unreliability. 
+<C>: Neither: Narrator is reliable from different characters' points of view.
+
+What type of narrator is given? DO NOT GIVE ANY DESCRIPTION. Generate ONLY THE CORRESPONDING LETTER enclosed in angle brackets ('<A>' or '<B>' or '<C>').
+
+
+INPUT 1: In due time I found my ghost, or ghosts rather, for there were two of them. Up till that hour I had sympathized with Mr. Besant’s method of handling them, as shown in “The Strange Case of Mr. Lucraft and Other Stories.” I am now in the Opposition.
+We will call the bungalow Katmal dâk-bungalow. But THAT was the smallest part of the horror. A man with a sensitive hide has no right to sleep in dâk-bungalows. He should marry. Katmal dâk-bungalow was old and rotten and unrepaired. The floor was of worn brick, the walls were filthy, and the windows were nearly black with grime. It stood on a bypath largely used by native Sub-Deputy Assistants of all kinds, from Finance to Forests; but real Sahibs were rare. The khansamah, who was nearly bent double with old age, said so.
+
+SOLUTION 1: <A> 
+
+INPUT 2: “I suppose you would like to take them to the Casino to play roulette? Well, excuse my speaking so plainly, but I know how addicted you are to gambling. Though I am not your mentor, nor wish to be, at least I have a right to require that you shall not actually compromise me.”
+“I have no money for gambling,” I quietly replied.
+“But you will soon be in receipt of some,” retorted the General, reddening a little as he dived into his writing desk and applied himself to a memorandum book. From it he saw that he had 120 roubles of mine in his keeping.
+“Let us calculate,” he went on. “We must translate these roubles into thalers. Here—take 100 thalers, as a round sum. The rest will be safe in my hands.”
+In silence I took the money.
+
+SOLUTION 2: <B>
+
+INPUT 3: "I heard the sound of a stick and a shambling step on the flags in the passage outside, and the door creaked on its hinges as a second old man entered, more bent, more wrinkled, more aged even than the first. He supported himself by a single crutch, his eyes were covered by a shade, and his lower lip, half-averted, hung pale and pink from his decaying yellow teeth. He made straight for an arm-chair on the opposite side of the table, sat down clumsily, and began to cough. The man with the withered arm gave this new-comer a short glance of positive dislike; the old woman took no notice of his arrival, but remained with her eyes fixed steadily on the fire."
+
+SOLUTION 3: <C>
+
+
+We define the following types of unreliable narrators based on an alternative character's point of view:
+
+<A>: Same unreliable narrator over time: Narrator is reflecting on his/her past self, who is unreliable, AND the present-day narrator does not indicate change within narrative snippet.
+<B>: Other character contradiction: Another character contradicts narrator who has demonstrated at least one form of intranarrational unreliability. 
+<C>: Neither: Narrator is reliable from different characters' points of view.
+
+What type of narrator is given? DO NOT GIVE ANY DESCRIPTION. Generate ONLY THE CORRESPONDING LETTER enclosed in angle brackets ('<A>' or '<B>' or '<C>').
